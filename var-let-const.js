@@ -6,5 +6,5 @@ const name = "Xaman dawud";
 // console.log(name);
 
 let book = "Do bright your Future with the hard work";
-var book = "ki obsta mama";
+// var book = "ki obsta mama";
 console.log(book);
